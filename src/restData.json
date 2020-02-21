@@ -1,0 +1,618 @@
+{
+  "data": {
+    "allFilms": {
+      "films": [
+        {
+          "title": "A New Hope",
+          "episodeID": 4,
+          "director": "George Lucas",
+          "id": "ZmlsbXM6MQ==",
+          "openingCrawl": "It is a period of civil war.\r\nRebel spaceships, striking\r\nfrom a hidden base, have won\r\ntheir first victory against\r\nthe evil Galactic Empire.\r\n\r\nDuring the battle, Rebel\r\nspies managed to steal secret\r\nplans to the Empire's\r\nultimate weapon, the DEATH\r\nSTAR, an armored space\r\nstation with enough power\r\nto destroy an entire planet.\r\n\r\nPursued by the Empire's\r\nsinister agents, Princess\r\nLeia races home aboard her\r\nstarship, custodian of the\r\nstolen plans that can save her\r\npeople and restore\r\nfreedom to the galaxy....",
+          "producers": ["Gary Kurtz", "Rick McCallum"],
+          "releaseDate": "1977-05-25",
+          "characterConnection": {
+            "characters": [
+              {
+                "name": "Luke Skywalker"
+              },
+              {
+                "name": "C-3PO"
+              },
+              {
+                "name": "R2-D2"
+              },
+              {
+                "name": "Darth Vader"
+              },
+              {
+                "name": "Leia Organa"
+              },
+              {
+                "name": "Owen Lars"
+              },
+              {
+                "name": "Beru Whitesun lars"
+              },
+              {
+                "name": "R5-D4"
+              },
+              {
+                "name": "Biggs Darklighter"
+              },
+              {
+                "name": "Obi-Wan Kenobi"
+              },
+              {
+                "name": "Wilhuff Tarkin"
+              },
+              {
+                "name": "Chewbacca"
+              },
+              {
+                "name": "Han Solo"
+              },
+              {
+                "name": "Greedo"
+              },
+              {
+                "name": "Jabba Desilijic Tiure"
+              },
+              {
+                "name": "Wedge Antilles"
+              },
+              {
+                "name": "Jek Tono Porkins"
+              },
+              {
+                "name": "Raymus Antilles"
+              }
+            ]
+          }
+        },
+        {
+          "title": "The Empire Strikes Back",
+          "episodeID": 5,
+          "director": "Irvin Kershner",
+          "id": "ZmlsbXM6Mg==",
+          "openingCrawl": "It is a dark time for the\r\nRebellion. Although the Death\r\nStar has been destroyed,\r\nImperial troops have driven the\r\nRebel forces from their hidden\r\nbase and pursued them across\r\nthe galaxy.\r\n\r\nEvading the dreaded Imperial\r\nStarfleet, a group of freedom\r\nfighters led by Luke Skywalker\r\nhas established a new secret\r\nbase on the remote ice world\r\nof Hoth.\r\n\r\nThe evil lord Darth Vader,\r\nobsessed with finding young\r\nSkywalker, has dispatched\r\nthousands of remote probes into\r\nthe far reaches of space....",
+          "producers": ["Gary Kurtz", "Rick McCallum"],
+          "releaseDate": "1980-05-17",
+          "characterConnection": {
+            "characters": [
+              {
+                "name": "Luke Skywalker"
+              },
+              {
+                "name": "C-3PO"
+              },
+              {
+                "name": "R2-D2"
+              },
+              {
+                "name": "Darth Vader"
+              },
+              {
+                "name": "Leia Organa"
+              },
+              {
+                "name": "Obi-Wan Kenobi"
+              },
+              {
+                "name": "Chewbacca"
+              },
+              {
+                "name": "Han Solo"
+              },
+              {
+                "name": "Wedge Antilles"
+              },
+              {
+                "name": "Yoda"
+              },
+              {
+                "name": "Palpatine"
+              },
+              {
+                "name": "Boba Fett"
+              },
+              {
+                "name": "IG-88"
+              },
+              {
+                "name": "Bossk"
+              },
+              {
+                "name": "Lando Calrissian"
+              },
+              {
+                "name": "Lobot"
+              }
+            ]
+          }
+        },
+        {
+          "title": "Return of the Jedi",
+          "episodeID": 6,
+          "director": "Richard Marquand",
+          "id": "ZmlsbXM6Mw==",
+          "openingCrawl": "Luke Skywalker has returned to\r\nhis home planet of Tatooine in\r\nan attempt to rescue his\r\nfriend Han Solo from the\r\nclutches of the vile gangster\r\nJabba the Hutt.\r\n\r\nLittle does Luke know that the\r\nGALACTIC EMPIRE has secretly\r\nbegun construction on a new\r\narmored space station even\r\nmore powerful than the first\r\ndreaded Death Star.\r\n\r\nWhen completed, this ultimate\r\nweapon will spell certain doom\r\nfor the small band of rebels\r\nstruggling to restore freedom\r\nto the galaxy...",
+          "producers": ["Howard G. Kazanjian", "George Lucas", "Rick McCallum"],
+          "releaseDate": "1983-05-25",
+          "characterConnection": {
+            "characters": [
+              {
+                "name": "Luke Skywalker"
+              },
+              {
+                "name": "C-3PO"
+              },
+              {
+                "name": "R2-D2"
+              },
+              {
+                "name": "Darth Vader"
+              },
+              {
+                "name": "Leia Organa"
+              },
+              {
+                "name": "Obi-Wan Kenobi"
+              },
+              {
+                "name": "Chewbacca"
+              },
+              {
+                "name": "Han Solo"
+              },
+              {
+                "name": "Jabba Desilijic Tiure"
+              },
+              {
+                "name": "Wedge Antilles"
+              },
+              {
+                "name": "Yoda"
+              },
+              {
+                "name": "Palpatine"
+              },
+              {
+                "name": "Boba Fett"
+              },
+              {
+                "name": "Lando Calrissian"
+              },
+              {
+                "name": "Ackbar"
+              },
+              {
+                "name": "Mon Mothma"
+              },
+              {
+                "name": "Arvel Crynyd"
+              },
+              {
+                "name": "Wicket Systri Warrick"
+              },
+              {
+                "name": "Nien Nunb"
+              },
+              {
+                "name": "Bib Fortuna"
+              }
+            ]
+          }
+        },
+        {
+          "title": "The Phantom Menace",
+          "episodeID": 1,
+          "director": "George Lucas",
+          "id": "ZmlsbXM6NA==",
+          "openingCrawl": "Turmoil has engulfed the\r\nGalactic Republic. The taxation\r\nof trade routes to outlying star\r\nsystems is in dispute.\r\n\r\nHoping to resolve the matter\r\nwith a blockade of deadly\r\nbattleships, the greedy Trade\r\nFederation has stopped all\r\nshipping to the small planet\r\nof Naboo.\r\n\r\nWhile the Congress of the\r\nRepublic endlessly debates\r\nthis alarming chain of events,\r\nthe Supreme Chancellor has\r\nsecretly dispatched two Jedi\r\nKnights, the guardians of\r\npeace and justice in the\r\ngalaxy, to settle the conflict....",
+          "producers": ["Rick McCallum"],
+          "releaseDate": "1999-05-19",
+          "characterConnection": {
+            "characters": [
+              {
+                "name": "C-3PO"
+              },
+              {
+                "name": "R2-D2"
+              },
+              {
+                "name": "Obi-Wan Kenobi"
+              },
+              {
+                "name": "Anakin Skywalker"
+              },
+              {
+                "name": "Jabba Desilijic Tiure"
+              },
+              {
+                "name": "Yoda"
+              },
+              {
+                "name": "Palpatine"
+              },
+              {
+                "name": "Qui-Gon Jinn"
+              },
+              {
+                "name": "Nute Gunray"
+              },
+              {
+                "name": "Finis Valorum"
+              },
+              {
+                "name": "Padmé Amidala"
+              },
+              {
+                "name": "Jar Jar Binks"
+              },
+              {
+                "name": "Roos Tarpals"
+              },
+              {
+                "name": "Rugor Nass"
+              },
+              {
+                "name": "Ric Olié"
+              },
+              {
+                "name": "Watto"
+              },
+              {
+                "name": "Sebulba"
+              },
+              {
+                "name": "Quarsh Panaka"
+              },
+              {
+                "name": "Shmi Skywalker"
+              },
+              {
+                "name": "Darth Maul"
+              },
+              {
+                "name": "Ayla Secura"
+              },
+              {
+                "name": "Ratts Tyerell"
+              },
+              {
+                "name": "Dud Bolt"
+              },
+              {
+                "name": "Gasgano"
+              },
+              {
+                "name": "Ben Quadinaros"
+              },
+              {
+                "name": "Mace Windu"
+              },
+              {
+                "name": "Ki-Adi-Mundi"
+              },
+              {
+                "name": "Kit Fisto"
+              },
+              {
+                "name": "Eeth Koth"
+              },
+              {
+                "name": "Adi Gallia"
+              },
+              {
+                "name": "Saesee Tiin"
+              },
+              {
+                "name": "Yarael Poof"
+              },
+              {
+                "name": "Plo Koon"
+              },
+              {
+                "name": "Mas Amedda"
+              }
+            ]
+          }
+        },
+        {
+          "title": "Attack of the Clones",
+          "episodeID": 2,
+          "director": "George Lucas",
+          "id": "ZmlsbXM6NQ==",
+          "openingCrawl": "There is unrest in the Galactic\r\nSenate. Several thousand solar\r\nsystems have declared their\r\nintentions to leave the Republic.\r\n\r\nThis separatist movement,\r\nunder the leadership of the\r\nmysterious Count Dooku, has\r\nmade it difficult for the limited\r\nnumber of Jedi Knights to maintain \r\npeace and order in the galaxy.\r\n\r\nSenator Amidala, the former\r\nQueen of Naboo, is returning\r\nto the Galactic Senate to vote\r\non the critical issue of creating\r\nan ARMY OF THE REPUBLIC\r\nto assist the overwhelmed\r\nJedi....",
+          "producers": ["Rick McCallum"],
+          "releaseDate": "2002-05-16",
+          "characterConnection": {
+            "characters": [
+              {
+                "name": "C-3PO"
+              },
+              {
+                "name": "R2-D2"
+              },
+              {
+                "name": "Owen Lars"
+              },
+              {
+                "name": "Beru Whitesun lars"
+              },
+              {
+                "name": "Obi-Wan Kenobi"
+              },
+              {
+                "name": "Anakin Skywalker"
+              },
+              {
+                "name": "Yoda"
+              },
+              {
+                "name": "Palpatine"
+              },
+              {
+                "name": "Boba Fett"
+              },
+              {
+                "name": "Nute Gunray"
+              },
+              {
+                "name": "Padmé Amidala"
+              },
+              {
+                "name": "Jar Jar Binks"
+              },
+              {
+                "name": "Watto"
+              },
+              {
+                "name": "Shmi Skywalker"
+              },
+              {
+                "name": "Ayla Secura"
+              },
+              {
+                "name": "Mace Windu"
+              },
+              {
+                "name": "Ki-Adi-Mundi"
+              },
+              {
+                "name": "Kit Fisto"
+              },
+              {
+                "name": "Plo Koon"
+              },
+              {
+                "name": "Mas Amedda"
+              },
+              {
+                "name": "Gregar Typho"
+              },
+              {
+                "name": "Cordé"
+              },
+              {
+                "name": "Cliegg Lars"
+              },
+              {
+                "name": "Poggle the Lesser"
+              },
+              {
+                "name": "Luminara Unduli"
+              },
+              {
+                "name": "Barriss Offee"
+              },
+              {
+                "name": "Dormé"
+              },
+              {
+                "name": "Dooku"
+              },
+              {
+                "name": "Bail Prestor Organa"
+              },
+              {
+                "name": "Jango Fett"
+              },
+              {
+                "name": "Zam Wesell"
+              },
+              {
+                "name": "Dexter Jettster"
+              },
+              {
+                "name": "Lama Su"
+              },
+              {
+                "name": "Taun We"
+              },
+              {
+                "name": "Jocasta Nu"
+              },
+              {
+                "name": "R4-P17"
+              },
+              {
+                "name": "Wat Tambor"
+              },
+              {
+                "name": "San Hill"
+              },
+              {
+                "name": "Shaak Ti"
+              },
+              {
+                "name": "Sly Moore"
+              }
+            ]
+          }
+        },
+        {
+          "title": "Revenge of the Sith",
+          "episodeID": 3,
+          "director": "George Lucas",
+          "id": "ZmlsbXM6Ng==",
+          "openingCrawl": "War! The Republic is crumbling\r\nunder attacks by the ruthless\r\nSith Lord, Count Dooku.\r\nThere are heroes on both sides.\r\nEvil is everywhere.\r\n\r\nIn a stunning move, the\r\nfiendish droid leader, General\r\nGrievous, has swept into the\r\nRepublic capital and kidnapped\r\nChancellor Palpatine, leader of\r\nthe Galactic Senate.\r\n\r\nAs the Separatist Droid Army\r\nattempts to flee the besieged\r\ncapital with their valuable\r\nhostage, two Jedi Knights lead a\r\ndesperate mission to rescue the\r\ncaptive Chancellor....",
+          "producers": ["Rick McCallum"],
+          "releaseDate": "2005-05-19",
+          "characterConnection": {
+            "characters": [
+              {
+                "name": "Luke Skywalker"
+              },
+              {
+                "name": "C-3PO"
+              },
+              {
+                "name": "R2-D2"
+              },
+              {
+                "name": "Darth Vader"
+              },
+              {
+                "name": "Leia Organa"
+              },
+              {
+                "name": "Owen Lars"
+              },
+              {
+                "name": "Beru Whitesun lars"
+              },
+              {
+                "name": "Obi-Wan Kenobi"
+              },
+              {
+                "name": "Anakin Skywalker"
+              },
+              {
+                "name": "Wilhuff Tarkin"
+              },
+              {
+                "name": "Chewbacca"
+              },
+              {
+                "name": "Yoda"
+              },
+              {
+                "name": "Palpatine"
+              },
+              {
+                "name": "Nute Gunray"
+              },
+              {
+                "name": "Padmé Amidala"
+              },
+              {
+                "name": "Ayla Secura"
+              },
+              {
+                "name": "Mace Windu"
+              },
+              {
+                "name": "Ki-Adi-Mundi"
+              },
+              {
+                "name": "Kit Fisto"
+              },
+              {
+                "name": "Eeth Koth"
+              },
+              {
+                "name": "Adi Gallia"
+              },
+              {
+                "name": "Saesee Tiin"
+              },
+              {
+                "name": "Plo Koon"
+              },
+              {
+                "name": "Poggle the Lesser"
+              },
+              {
+                "name": "Luminara Unduli"
+              },
+              {
+                "name": "Dooku"
+              },
+              {
+                "name": "Bail Prestor Organa"
+              },
+              {
+                "name": "R4-P17"
+              },
+              {
+                "name": "Shaak Ti"
+              },
+              {
+                "name": "Grievous"
+              },
+              {
+                "name": "Tarfful"
+              },
+              {
+                "name": "Raymus Antilles"
+              },
+              {
+                "name": "Sly Moore"
+              },
+              {
+                "name": "Tion Medon"
+              }
+            ]
+          }
+        },
+        {
+          "title": "The Force Awakens",
+          "episodeID": 7,
+          "director": "J. J. Abrams",
+          "id": "ZmlsbXM6Nw==",
+          "openingCrawl": "Luke Skywalker has vanished.\r\nIn his absence, the sinister\r\nFIRST ORDER has risen from\r\nthe ashes of the Empire\r\nand will not rest until\r\nSkywalker, the last Jedi,\r\nhas been destroyed.\r\n \r\nWith the support of the\r\nREPUBLIC, General Leia Organa\r\nleads a brave RESISTANCE.\r\nShe is desperate to find her\r\nbrother Luke and gain his\r\nhelp in restoring peace and\r\njustice to the galaxy.\r\n \r\nLeia has sent her most daring\r\npilot on a secret mission\r\nto Jakku, where an old ally\r\nhas discovered a clue to\r\nLuke's whereabouts....",
+          "producers": ["Kathleen Kennedy", "J. J. Abrams", "Bryan Burk"],
+          "releaseDate": "2015-12-11",
+          "characterConnection": {
+            "characters": [
+              {
+                "name": "Luke Skywalker"
+              },
+              {
+                "name": "R2-D2"
+              },
+              {
+                "name": "Leia Organa"
+              },
+              {
+                "name": "Chewbacca"
+              },
+              {
+                "name": "Han Solo"
+              },
+              {
+                "name": "Ackbar"
+              },
+              {
+                "name": "Finn"
+              },
+              {
+                "name": "Rey"
+              },
+              {
+                "name": "Poe Dameron"
+              },
+              {
+                "name": "BB8"
+              },
+              {
+                "name": "Captain Phasma"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
