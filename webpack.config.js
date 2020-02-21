@@ -1,3 +1,5 @@
+const CopyPlugin = require("copy-webpack-plugin");
+
 module.exports = {
   mode: "development",
   devtool: "inline-source-map",
@@ -12,5 +14,6 @@ module.exports = {
         exclude: /node_modules/
       }
     ]
-  }
+  },
+  plugins: [new CopyPlugin([{ from: "public" }])]
 };
