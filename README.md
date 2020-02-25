@@ -12,6 +12,7 @@ https://swapi-graphql.netlify.com
 
 ### Focus on JS
 
+- See the wireframe (Design files/wireframes/js-assignment.jpg) to get started. Create new pages if needed.
 - Be able to search for Star Wars characters and show details about the results.
 - Show search suggestions as you type.
 - Show a search history with timestamps.
@@ -20,8 +21,10 @@ https://swapi-graphql.netlify.com
 
 ### Focus on CSS
 
+- Get started by looking at Design Files/wireframes/css-startpage-wireframe.jpg
 - Show film overview based on the data
 - Show detail page when clicking on a film
+- Use the desktop design to code your own appropriate mobile design equivalent
 
 ## What we look at
 
@@ -29,3 +32,7 @@ https://swapi-graphql.netlify.com
 - Clean code. Should be easy to understand.
 - Semantic HTML. The HTML should be accessible and good for SEO.
 - Performance. The app should not make unnecessary API calls or re-renders.
+
+## Start the app
+- npm install
+- npm run start
