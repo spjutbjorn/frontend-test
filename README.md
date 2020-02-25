@@ -1,5 +1,7 @@
 # Front end developer test
 
+**Don't work more than four hours on this assignment**
+
 Use the Star Wars API as a data source to complete the below assignments:
 
 https://swapi.co
