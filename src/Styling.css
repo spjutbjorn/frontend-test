@@ -1,0 +1,67 @@
+body {
+    background-color: #171C22;
+    color: white;
+    font-size: 18px;
+}
+.app {
+    display: grid;
+    grid-template-rows: 1.5fr 4fr 1.4fr;
+    height: 100vh;
+}
+
+.searchBox{
+    width: 15em;
+    border-radius: 3em;
+    background: #D8D8D8 url('/images/search.svg') no-repeat 95% center; 
+}
+
+.logo{
+    width: 15em;
+}
+
+.MuiAutocomplete-endAdornment{
+    display:none;
+}
+
+.header{
+    background-image: url('/images/hero.jpg');
+    display: grid;
+    grid-template-columns: 1fr 5fr 1fr;
+    padding: 2em;
+}
+.main{
+    display: grid;
+    grid-template-columns: 2fr 5fr 2fr;
+    margin-bottom:2em;
+}
+.content{
+    display: grid;
+    grid-template-rows: 2fr 1fr;
+}
+
+.footer{
+    display: grid;
+    grid-template-columns: repeat(5, 2fr);
+    background-color: #1F262C;
+}
+.footer p{
+    padding-left: 5em;
+}
+
+.footer a {
+    color: white;
+    text-decoration: none;
+}
+.footer div {
+    border: 0;
+}
+
+.footer > div > p:first-child{
+    height: 2em;
+    padding-left: 0;
+}
+    
+.panels > div {
+    background-color: #D8D8D8;
+    color: #0C0C0C;
+}

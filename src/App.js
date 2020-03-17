@@ -10,7 +10,6 @@ const App = () => {
   const [starwarsInfo, setStarwarsInfo] = useState(null);
   const [peopleInfo, setPeopleInfo] = useState(null);
 
-
   const addHistory=(input)=>{
     let localhistory = [];
     localhistory.push({
@@ -74,7 +73,9 @@ const App = () => {
       <Main 
         history={history} 
         clearHistory={clearHistory} 
-        removeHistory={removeHistoryItem}/>
+        removeHistory={removeHistoryItem}
+        peopleInfo={peopleInfo} 
+        starwarsInfo={starwarsInfo} />
       <Footer />
   </div>
   );

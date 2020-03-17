@@ -1,6 +1,6 @@
 import React from 'react';
 
-const SearchResult = ({result}) => {
+const SearchResult = ({result, peopleInfo, starwarsInfo}) => {
   if(!result)
     return null;
   return (
