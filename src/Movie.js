@@ -7,8 +7,8 @@ const Movie = ({movie}) => {
       <div className='movie'>
           <div><img src={'/images/starWars' + movie.episode_id + '.jpg'} /></div>
           <div>
-              <p><span>Director </span> <span>{movie.director}</span></p>
-              <p><span>Producer </span> <span>{movie.producer}</span></p>
+              <p><span>Director</span> <span>{movie.director}</span></p>
+              <p><span>Producer</span> <span>{movie.producer}</span></p>
               <p>{movie.opening_crawl}</p>
           </div>
       </div>
