@@ -33,14 +33,12 @@ const App = () => {
       const response = await fetch(`https://swapi.co/api/films/`);
       const json = await response.json();
       setStarwarsInfo(json.results);
-      console.log('callInfo', json.results)
     }
 
     const getPeopleInfo = async () => {
       const response = await fetch(`https://swapi.co/api/people/`);
       const json = await response.json();
       setPeopleInfo(json.results);
-      console.log('callPeople', json.results)
     }
 
     getStarwarsInfo();
